@@ -20,5 +20,5 @@ A simple RESTful API built with Node.js, Express, and MongoDB for managing tasks
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/task-manager-api.git
+git clone https://github.com/10octharjeet/task-manager-api.git
 cd task-manager-api
